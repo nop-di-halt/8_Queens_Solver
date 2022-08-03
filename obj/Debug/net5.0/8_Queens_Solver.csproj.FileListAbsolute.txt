@@ -1,0 +1,16 @@
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\8_Queens_Solver.exe
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\8_Queens_Solver.deps.json
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\8_Queens_Solver.runtimeconfig.json
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\8_Queens_Solver.runtimeconfig.dev.json
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\8_Queens_Solver.dll
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\ref\8_Queens_Solver.dll
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\bin\Debug\net5.0\8_Queens_Solver.pdb
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.csproj.AssemblyReference.cache
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.AssemblyInfoInputs.cache
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.AssemblyInfo.cs
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.csproj.CoreCompileInputs.cache
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.dll
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\ref\8_Queens_Solver.dll
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.pdb
+E:\Progs\C#\8_Queens_Solver\8_Queens_Solver\obj\Debug\net5.0\8_Queens_Solver.genruntimeconfig.cache
